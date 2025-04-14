@@ -1,5 +1,5 @@
 {
-    "name": "tarsoft/toyyibpay",
+    "name": "safiul0073/toyyibpay",
     "description": "Laravel Package for ToyyibPay API",
     "type": "library",
     "license": "MIT",
@@ -31,8 +31,9 @@
     },
     "minimum-stability": "dev",
     "require": {
+        "php": "^7.2|^8.0|^8.1|^8.2|^8.3|^8.4",
         "guzzlehttp/guzzle": "^6.3|^7.0.1",
-        "illuminate/support": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0"
+        "illuminate/support": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0|^12.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.0|^9.0",
